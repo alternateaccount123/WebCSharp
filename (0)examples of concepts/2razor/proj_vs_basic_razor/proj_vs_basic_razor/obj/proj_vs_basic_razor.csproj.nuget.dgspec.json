@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\brand\\OneDrive\\Escritorio\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of basic concepts\\2razor\\proj_vs_basic_razor\\proj_vs_basic_razor\\proj_vs_basic_razor.csproj": {}
+    "C:\\Users\\brand\\OneDrive\\Escritorio\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\2razor\\proj_vs_basic_razor\\proj_vs_basic_razor\\proj_vs_basic_razor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\brand\\OneDrive\\Escritorio\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of basic concepts\\2razor\\proj_vs_basic_razor\\proj_vs_basic_razor\\proj_vs_basic_razor.csproj": {
+    "C:\\Users\\brand\\OneDrive\\Escritorio\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\2razor\\proj_vs_basic_razor\\proj_vs_basic_razor\\proj_vs_basic_razor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brand\\OneDrive\\Escritorio\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of basic concepts\\2razor\\proj_vs_basic_razor\\proj_vs_basic_razor\\proj_vs_basic_razor.csproj",
+        "projectUniqueName": "C:\\Users\\brand\\OneDrive\\Escritorio\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\2razor\\proj_vs_basic_razor\\proj_vs_basic_razor\\proj_vs_basic_razor.csproj",
         "projectName": "proj_vs_basic_razor",
-        "projectPath": "C:\\Users\\brand\\OneDrive\\Escritorio\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of basic concepts\\2razor\\proj_vs_basic_razor\\proj_vs_basic_razor\\proj_vs_basic_razor.csproj",
+        "projectPath": "C:\\Users\\brand\\OneDrive\\Escritorio\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\2razor\\proj_vs_basic_razor\\proj_vs_basic_razor\\proj_vs_basic_razor.csproj",
         "packagesPath": "C:\\Users\\brand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brand\\OneDrive\\Escritorio\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of basic concepts\\2razor\\proj_vs_basic_razor\\proj_vs_basic_razor\\obj\\",
+        "outputPath": "C:\\Users\\brand\\OneDrive\\Escritorio\\HL-Copy\\0_programming\\3_webdev\\0_serverside code\\WebCSharp\\(0)examples of concepts\\2razor\\proj_vs_basic_razor\\proj_vs_basic_razor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

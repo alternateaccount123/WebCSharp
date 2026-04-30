@@ -6,20 +6,19 @@ namespace proj_vs_basic_razor.Controllers
 {
     public class HomeController : Controller
     {
-        public IActionResult Index()
+
+        //localhost:<port>
+        //output:proj_vs_basic_razor Home Privacy Person Information Jane 28
+        public IActionResult Index()  //look for view called index
         {
-            return View();
+            var person = new Person  //create person object
+            {
+                Name = "Jane",
+                Age = 28
+            };
+
+            return View(person); // passes data to the view
         }
 
-        public IActionResult Privacy()
-        {
-            return View();
-        }
-
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
-        {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
-        }
     }
 }
